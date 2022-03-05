@@ -1,3 +1,3 @@
-basic.forever(function () {
-    basic.showString("Hello!")
+input.onButtonPressed(Button.A, function () {
+    basic.showString("Roxanne")
 })

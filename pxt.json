@@ -1,5 +1,5 @@
 {
-    "name": "Roxanne",
+    "name": "Roxanne_défi 1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.17",
+        "target": "4.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
